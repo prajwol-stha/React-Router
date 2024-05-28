@@ -36,7 +36,7 @@ export default function Footer() {
                             <ul className="text-gray-500 font-medium">
                                 <li className="mb-4">
                                     <a
-                                        href="https://github.com/hiteshchoudhary"
+                                        href="https://github.com/prajwol-stha"
                                         className="hover:underline"
                                         target="_blank"
                                         rel="noreferrer"
@@ -46,7 +46,7 @@ export default function Footer() {
                                 </li>
                                 <li>
                                     <Link to="/" className="hover:underline">
-                                        Discord
+                                        Instagram
                                     </Link>
                                 </li>
                             </ul>
@@ -71,9 +71,9 @@ export default function Footer() {
                 <hr className="my-6 border-gray-200 sm:mx-auto lg:my-8" />
                 <div className="sm:flex sm:items-center sm:justify-between">
                     <span className="text-sm text-gray-500 sm:text-center">
-                        © 2023
-                        <a href="https://hiteshchoudhary.com/" className="hover:underline">
-                            hiteshchoudhary
+                        © 2024
+                        <a href="https://prajwolstha.com.np/" className="hover:underline">
+                            prajwolstha
                         </a>
                         . All Rights Reserved.
                     </span>
